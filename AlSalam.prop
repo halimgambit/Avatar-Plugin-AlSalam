@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"AlSalam": {
+			"version": "1.0",
+			"name": "al_salam",
+			"rules": ["salam aleykum","salam * aleykum","assalamou * alaykum","assalam * alaykum"]
+		}
+	}
+}
+			
